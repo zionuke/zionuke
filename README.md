@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🏫 I’m a university student at Hust.
 - 💪 Language used: html, css, javascript, c, python.
-- 🕗 I'm from China （UTC+8）
+- 🕗 I'm from China and love watching animes.
 - 🍥 I enjoy reading books of psychology, literature, sociology, history and ...
    
 Following is my github stats
