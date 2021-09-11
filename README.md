@@ -16,5 +16,5 @@ Following is my github stats
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dragon-liu)](https://github.com/anuraghazra/github-readme-stats)  
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-liu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-liu&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
