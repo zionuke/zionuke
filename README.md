@@ -14,7 +14,5 @@ Here are some ideas to get you started:
    
 Following is my github stats
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dragon-liu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-liu&layout=compact&hide=jupyter%20notebook,matlab,tcl,python,c,c%2B%2B,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
