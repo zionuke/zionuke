@@ -8,7 +8,7 @@ Here are some self-description help you being familiar with me.
 Here are some ideas to get you started:
 -->
 - 🏫 I’m a university student at Hust.
-- 💪 Language used: html, css, javascript, c, python.
+- 💪 Language used: html, css, javascript, c/c++, java, python.
 - 🕗 I'm from China and love watching animes.
 - 🍥 I enjoy reading books of psychology, literature, sociology, history and ...
    
