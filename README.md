@@ -9,7 +9,8 @@
 - 🍥 I enjoy reading books of psychology, literature, sociology, history and ...
 Here are some ideas to get you started:
 -->
-👀 I am a fourth-year college student and I’m looking for a frontend job now. 
+👀 I am a fourth-year college student and I’m looking for a frontend job now.  
+👨‍💻 Recently, I have been mainly preparing for written examinations and interviews, so there hasn't been much update.
 
 **Languages and Tools:**  
 
