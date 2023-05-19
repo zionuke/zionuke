@@ -9,8 +9,9 @@
 - 🍥 I enjoy reading books of psychology, literature, sociology, history and ...
 Here are some ideas to get you started:
 -->
-👀 I am a fourth-year college student and I’m looking for a frontend job now.  
-👨‍💻 Recently, I have been mainly preparing for written examinations and interviews, so there hasn't been much update.
+- 👨‍💻 I'm working in Kuaishou now.
+- 🤩 I love everything about front-end.
+- 🤖 Language used: JavaScript, TypeScript, Node.js, Java, Python, C, C++
 
 **Languages and Tools:**  
 
