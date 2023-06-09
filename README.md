@@ -9,7 +9,7 @@
 - 🍥 I enjoy reading books of psychology, literature, sociology, history and ...
 Here are some ideas to get you started:
 -->
-- 👨‍💻 I'm working in Kuaishou now.
+- 👨‍💻 I'm working as a front-end developer now.
 - 🤩 I love everything about front-end.
 - 🤖 Language used: JavaScript, TypeScript, Node.js, Java, Python, C, C++
 
